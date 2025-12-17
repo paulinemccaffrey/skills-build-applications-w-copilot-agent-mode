@@ -31,3 +31,9 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+# Django sqlite database
+db.sqlite3
+
+# backend virtualenv
+octofit-tracker/backend/venv/
